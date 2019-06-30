@@ -1,6 +1,4 @@
-/**
- * Created by Dawid Stankiewicz on 17.07.2016
- */
+
 package com.github.NCIT.forum.entity;
 
 import java.io.Serializable;
